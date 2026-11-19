@@ -1,5 +1,4 @@
 # prova2sistemasdistribuidos
-# Prova-pratica---Sistemas-distribuídos---P2
 
 Nome: Miguel Luz Andrino
 3 semestre
